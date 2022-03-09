@@ -1,0 +1,17 @@
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\bower.json
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\SaleService.xml
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\SaleService.deps.json
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\SaleService.runtimeconfig.json
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\SaleService.runtimeconfig.dev.json
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\SaleService.dll
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\bin\Debug\netcoreapp2.0\SaleService.pdb
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.csproj.AssemblyReference.cache
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.AssemblyInfoInputs.cache
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.AssemblyInfo.cs
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.csproj.CoreCompileInputs.cache
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.dll
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.pdb
+D:\Demo\Blog_WebApi\[05]文件上传\UploadFile\SaleService\obj\Debug\netcoreapp2.0\SaleService.genruntimeconfig.cache
